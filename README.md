@@ -23,3 +23,7 @@ Este projeto foi desenvolvido como parte do currículo da Licenciatura em Segura
 ## Licença
 Este projeto é de uso livre para fins educativos. Para outros usos ou questões, contacte-me através do GitHub.
 
+![Language](https://img.shields.io/badge/Language-C-blue)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+
+
